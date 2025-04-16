@@ -19,11 +19,14 @@ The following screenshot shows the Dashboard up and running
     <img src="CS499FriendFinder2.png" height="800">
 </center><br>
 
+<a href="https://github.com/J00stME/J00stME.github.io/tree/main/Artifact%201%20Friend%20Finder">Access the Friend Finder files and development narrative here!</a><br>
+
 ## Artifact Two: Data Structures and Algorithms
 
 The second project is a Q-Learning, Deep Neural Network trained to solve a simple maze.  Utilizing the Q "reinforcement learning" algorithm, my enhancement is a juxtaposition of different learning parameters for the model and documenting their success (or failure).  I also made use of an Anaconda Virtual Environment so that the original (now deprecated) code could run on my system. <br>
 
 The following screenshot shows a completed training session and the path the AI Agent took
 
-<center><img src="CS499QLearning.png" height="800" width="800"></center>
+<center><img src="CS499QLearning.png" height="800" width="800"></center><br>
+<a href="https://github.com/J00stME/J00stME.github.io/tree/main/Artifact%202%20Maze%20Game">Access the Maze Game files and development narrative here!</a><br>
 
