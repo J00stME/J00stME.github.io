@@ -13,13 +13,13 @@
 The first of my two projects is the Friend Finder application.  It spans both categories as it is the union of both Database administration and design as well as implementing a User Interface and data visualiser.  In my enhancement I run the MongoDB server on my own machine and import the CSV file to the database (database enhancement).  I also updated deprecated methods from the old version of Dash and then swap out the hard-coded database login info in favor of a simple authentication prompt.  Finally, I added various new data visualizations to the project which granted a new insight on the raw data (software engineering/design enhancements). <br>
 
 <center>
-    <img src="CS499FriendFinder.png"><br>
-    <img src="CS499FriendFinder2.png">
+    <img src="CS499FriendFinder.png" height="800" width="800"><br>
+    <img src="CS499FriendFinder2.png" height="800" width="800">
 </center>
 
 ## Artifact Two: Data Structures and Algorithms
 
 The second project is a Q-Learning, Deep Neural Network trained to solve a simple maze.  Utilizing the Q "reinforcement learning" algorithm, my enhancement is a juxtaposition of different learning parameters for the model and documenting their success (or failure).  I also made use of an Anaconda Virtual Environment so that the original (now deprecated) code could run on my system. <br>
 
-<center><img src="CS499QLearning.png"></center>
+<center><img src="CS499QLearning.png" height="800" width="800"></center>
 
