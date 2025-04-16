@@ -1,7 +1,7 @@
 # <center>Alex Frankel's E-Portfolio</center>
 
 ## A not-so-brief Professional Self-Assessment
-My tumultuous journey towards a degree in Software Engineering has taken me to places I never imagined before.  The best description of what I’ve experienced at SNHU is “a little bit of everything”.  I’ve learned multiple programming languages, multiple front-end development libraries, SQL and NoSQL databases, the software development lifecycle, architectural program design, and even software reverse engineering and secure coding practices.<br><br>
+My tumultuous journey towards a degree in Software Engineering has taken me to places I never imagined before.  The best description of what I’ve experienced at SNHU is “a little bit of everything”.  I’ve learned multiple programming languages, multiple front-end development libraries (Dash, Express, Angular, Node), SQL and NoSQL databases, the software development lifecycle, architectural program design, and even software reverse engineering and secure coding practices.<br><br>
 To break things down just a little bit, here are all my course-specific competencies and related skills: <br>
 
 ### **Collaborating in a team environment**
@@ -35,8 +35,8 @@ The first of my two projects is the Friend Finder application.  It spans both ca
 The following screenshot shows the Dashboard up and running
 
 <center>
-    <img src="CS499FriendFinder.png" height="800"><br>
-    <img src="CS499FriendFinder2.png" height="800">
+    <img src="CS499FriendFinder.png" height="auto"><br>
+    <img src="CS499FriendFinder2.png" height="auto">
 </center><br>
 
 
@@ -48,6 +48,6 @@ The second project is a Q-Learning, Deep Neural Network trained to solve a simpl
 
 The following screenshot shows a completed training session and the path the AI Agent took
 
-<center><img src="CS499QLearning.png" height="800" width="800"></center><br>
+<center><img src="CS499QLearning.png" height="auto"></center><br>
 
 
