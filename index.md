@@ -20,9 +20,10 @@ Various applications of software engineering were explored in my coursework.  CS
 
 
 ## <center>Code Review</center>
-<center><iframe width="auto" height="auto" 
-    src="https://www.youtube.com/embed/zYmI5PXftYI" 
-    frameborder="0" allowfullscreen></iframe></center><br>
+
+<center>
+    <iframe width="800" height="600" src="https://www.youtube.com/embed/zYmI5PXftYI" frameborder="0" allowfullscreen></iframe>
+</center><br>
 <center>My code review is a walkthrough of my artifacts originally produced as coursework at SNHU.  In this review I go through each project line-by-line and discuss my enhancement plan for this portfolio.</center><br>
 
 
