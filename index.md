@@ -15,7 +15,7 @@ The first of my two projects is the Friend Finder application.  It spans both ca
 <center>
     <img src="CS499FriendFinder.png" height="800"><br>
     <img src="CS499FriendFinder2.png" height="800">
-</center>
+</center><br>
 
 ## Artifact Two: Data Structures and Algorithms
 
