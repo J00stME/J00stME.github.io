@@ -1,7 +1,7 @@
 # <center>Alex Frankel's E-Portfolio</center>
 
 ## A not-so-brief Professional Self-Assessment
-My tumultuous journey towards a degree in Software Engineering has taken me to places I never imagined before.  The best description of what I’ve experienced at SNHU is “a little bit of everything”.  I’ve learned multiple programming languages, multiple front-end development libraries, SQL and NoSQL databases, the software development lifecycle, architectural program design, and even software reverse engineering and secure coding practices.
+My tumultuous journey towards a degree in Software Engineering has taken me to places I never imagined before.  The best description of what I’ve experienced at SNHU is “a little bit of everything”.  I’ve learned multiple programming languages, multiple front-end development libraries, SQL and NoSQL databases, the software development lifecycle, architectural program design, and even software reverse engineering and secure coding practices.<br>
 To break things down just a little bit, here are all my course-specific competencies and related skills: <br>
 
 ### **Collaborating in a team environment**
