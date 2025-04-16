@@ -13,8 +13,8 @@
 The first of my two projects is the Friend Finder application.  It spans both categories as it is the union of both Database administration and design as well as implementing a User Interface and data visualiser.  In my enhancement I run the MongoDB server on my own machine and import the CSV file to the database (database enhancement).  I also updated deprecated methods from the old version of Dash and then swap out the hard-coded database login info in favor of a simple authentication prompt.  Finally, I added various new data visualizations to the project which granted a new insight on the raw data (software engineering/design enhancements). <br>
 
 <center>
-    <img src="CS499FriendFinder.png" height="800" width="800"><br>
-    <img src="CS499FriendFinder2.png" height="800" width="800">
+    <img src="CS499FriendFinder.png" height="800"><br>
+    <img src="CS499FriendFinder2.png" height="800">
 </center>
 
 ## Artifact Two: Data Structures and Algorithms
